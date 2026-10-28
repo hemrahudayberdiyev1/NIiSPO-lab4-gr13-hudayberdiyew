@@ -6,7 +6,7 @@ Report on LabRabota4.
 Задание 3. Развертывание приложения Deployment.
 
 # Usage
-To check, please, preview report by /docs/Otchet_Lab4_Kudaiberdiev_final.docx and source files in the root directory.
+To check, please, preview report by /docs/Отчет Lab4.docx and source files in the root directory.
 
 # Author
 Худайбердиев Хемраберди, группа 13.
